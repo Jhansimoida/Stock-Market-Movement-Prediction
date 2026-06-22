@@ -45,6 +45,13 @@ This project predicts stock market movement (UP/DOWN) using a Random Forest Clas
 - Stock_Market_Movement_Prediction.ipynb
 - CM.png
 - Feature Importance.png
+## Confusion Matrix
+
+![Confusion Matrix](STOCK_MOVEMENT_PREDICTION/CM.png)
+
+## Feature Importance
+
+![Feature Importance](STOCK_MOVEMENT_PREDICTION/Feature%20Importance.png)
 
 ## Author
 
